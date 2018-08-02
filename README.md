@@ -1,9 +1,9 @@
 # PassMan 
 
 
-This is a javascript password manager inspired by the password manager located on [SS64.com](https://ss64.com/pass/) but with additional features and cryptographic updates.
+This is a deterministic PBKDF2 based javascript password manager inspired by the password manager located on [SS64.com](https://ss64.com/pass/) but with additional features and cryptographic updates.
 
-A live example version can be found at [https://www.paulhempshall.com/io/PassMan/](https://www.paulhempshall.com/io/PassMan/) however it is recommended you clone this git and configure the master seed rather than use the preconfigured live example version.
+A live example version can be found at [https://phempshall.github.io/PassMan/passman.html](https://phempshall.github.io/PassMan/passman.html) however it is recommended you clone this git and configure the master seed rather than use the preconfigured live example version.
 
 
 ##### Features:
