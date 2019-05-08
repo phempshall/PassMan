@@ -1,5 +1,8 @@
 # PassMan 
 
+```
+I advise that you do not use this software as it is considered unfit for purpose
+```
 
 This is a Proof of Concept deterministic PBKDF2 based javascript password manager inspired by the password manager located on [SS64.com](https://ss64.com/pass/) but with additional features and cryptographic updates.
 
